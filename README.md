@@ -24,3 +24,9 @@ To run a local instance with your changes:
 ```bash
 $ bundle exec jekyll serve
 ```
+
+To use Docker:
+
+```bash
+$ sudo docker compose up --build
+```

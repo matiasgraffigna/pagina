@@ -6,6 +6,9 @@ _site
 vendor
 Gemfile.lock
 
+# Al-Folio stuff
+.tweet-cache
+
 # Ignore temp directory for updates.
 .tmp
 al-folio.zip
